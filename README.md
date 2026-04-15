@@ -1,5 +1,5 @@
 # DockerLife PHP & MySQL Sample
-Dockerを使ってPHP環境を構築した練習プロジェクトです。
+Dockerを使ってPHP・MySQL環境を構築した練習プロジェクトです。
 
 ## 使い方
 1. このリポジトリをクローンする。
